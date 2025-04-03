@@ -2,7 +2,7 @@
 
 <p align="center">
   <i>Computer Science & Economics student @ BBU Cluj-Napoca | Google Developer Groups on Campus Volunteer</i><br/>
-  <i>Cyber Security working student🛡️ | Artificial Intelligence enthusiast🤖 </i>
+  <i>Cyber Security working student | Artificial Intelligence enthusiast</i>
 </p>
 
 
