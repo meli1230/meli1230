@@ -1,9 +1,10 @@
 <h1 align="center">whoami</h1>
 
-- Melisa Marian
-- Computer Science & Economics student @ BBU Cluj-Napoca studying Business Information Systems
-- Cyber Security Working Student
-- Artificial Intelligence Bachelor's Thesis
+<p align="center">
+  <i>Computer Science & Economics student @ BBU Cluj-Napoca</i><br/>
+  <i>Cyber Security working student🛡️ | Artificial Intelligence Bachelor's thesis🤖 </i>
+</p>
+
 
 ---
 
