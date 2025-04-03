@@ -14,12 +14,6 @@ You can find my portfolio by clicking [here](https://github.com/meli1230/shareab
 
 In my repositories, you can expect to find tools and technologies like:
 
-## Projects & Portfolio
-
-You can find my portfolio by clicking [here](https://github.com/meli1230/shareables).
-
-In my repositories, you can expect to find tools and technologies like:
-
 #### Programming Languages  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python icon"/> &nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java icon"/> &nbsp;&nbsp;&nbsp;
