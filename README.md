@@ -1,9 +1,7 @@
 <h1 align="center">whoami</h1>
 
 <p align="center">
-  <i>Melisa Marian</i><br/>
-  <i>Computer Science & Economics student at Babeș-Bolyai University</i><br/>
-  <i>Faculty of Business Information Systems | Based in Cluj-Napoca 🇷🇴</i><br/>
+  <i>Computer Science & Economics student @ BBU Cluj-Napoca | Studying Business Information Systems</i><br/>
   <i>Cyber Security Working Student🛡️ | Artificial Intelligence Bachelor's Thesis🤖</i>
 </p>
 
@@ -21,12 +19,16 @@ In my repositories, you can expect to find tools and technologies like:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meli1230&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
+---
+
 ## Contact
 
 If you'd like to chat, collaborate, or connect professionally, you can reach me here:
 
 - [**LinkedIn**](https://www.linkedin.com/in/melisa-marian-733883201/)
 - Email: **melisa_marian@yahoo.fr**
+
+---
 
 <p align="center">
   Thanks for stopping by! Have a wonderful day!
