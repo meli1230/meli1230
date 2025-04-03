@@ -1,8 +1,8 @@
 <h1 align="center">whoami</h1>
 
 <p align="center">
-  <i>Computer Science & Economics student @ BBU Cluj-Napoca</i><br/>
-  <i>Cyber Security working student🛡️ | Artificial Intelligence Bachelor's thesis🤖 </i>
+  <i>Computer Science & Economics student @ BBU Cluj-Napoca | Google Developer Groups on Campus Volunteer</i><br/>
+  <i>Cyber Security working student🛡️ | Artificial Intelligence enthusiast🤖 </i>
 </p>
 
 
