@@ -21,46 +21,36 @@ You can find my portfolio by clicking [here](https://github.com/meli1230/shareab
 In my repositories, you can expect to find tools and technologies like:
 
 #### Programming Languages  
-<span style="display: inline-block; vertical-align: middle; font-weight: bold;">Python</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="vertical-align: middle; margin: 0 20px;" alt="Python"/>
-
-<span style="display: inline-block; vertical-align: middle; font-weight: bold;">Java</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="vertical-align: middle; margin: 0 20px;" alt="Java"/>
-
-<span style="display: inline-block; vertical-align: middle; font-weight: bold;">C</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="vertical-align: middle; margin: 0 20px;" alt="C"/>
-
-<span style="display: inline-block; vertical-align: middle; font-weight: bold;">C#</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" style="vertical-align: middle; margin: 0 20px;" alt="C#"/>
-
-<span style="display: inline-block; vertical-align: middle; font-weight: bold;">PHP</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" style="vertical-align: middle; margin: 0 20px;" alt="PHP"/>
-
-<span style="display: inline-block; vertical-align: middle; font-weight: bold;">JavaScript</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="vertical-align: middle; margin: 0 20px;" alt="JavaScript"/>
 
 
 #### Web & Frameworks  
-<span style="font-weight: bold;">HTML5</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">CSS3</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">Bootstrap</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">Laravel</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">Node.js</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">React</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">ASP.NET</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="ASP.NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="ASP.NET"/>
 
 
 #### Databases  
-<span style="font-weight: bold;">MySQL</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">MongoDB</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">Oracle (PL/SQL)</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle"/>
 
 
 #### Tools & Platforms  
-<span style="font-weight: bold;">Git</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">GitHub</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">Windows</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">Ubuntu</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="40" alt="Ubuntu"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/> &nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/> &nbsp;&nbsp;&nbsp;
+
+
 
 
 ---
