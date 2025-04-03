@@ -14,7 +14,7 @@ You can find my portfolio by clicking [here](https://github.com/meli1230/shareab
 
 In my repositories, you can expect to find tools and technologies like:
 
-### 🖥️ Programming Languages  
+#### Programming Languages  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -24,9 +24,7 @@ In my repositories, you can expect to find tools and technologies like:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
 </p>
 
----
-
-### 🌐 Web & Frameworks  
+#### Web & Frameworks  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
@@ -37,9 +35,8 @@ In my repositories, you can expect to find tools and technologies like:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="ASP.NET"/>
 </p>
 
----
 
-### 🗃️ Databases  
+#### Databases  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
@@ -47,9 +44,8 @@ In my repositories, you can expect to find tools and technologies like:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle (PL/SQL)"/>
 </p>
 
----
 
-### ⚙️ Tools & Platforms  
+#### Tools & Platforms  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
@@ -57,7 +53,6 @@ In my repositories, you can expect to find tools and technologies like:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Windows"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="Ubuntu"/>
 </p>
-
 
 
 ---
