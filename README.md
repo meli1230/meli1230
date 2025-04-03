@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">whoami</h1>
 
-<!--
-**meli1230/meli1230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>Melisa Marian</i><br/>
+  <i>Computer Science & Economics student at Babeș-Bolyai University</i><br/>
+  <i>Faculty of Business Information Systems | Based in Cluj-Napoca 🇷🇴</i><br/>
+  <i>Cyber Security Working Student🛡️ | Artificial Intelligence Bachelor's Thesis🤖</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects & Portfolio
+
+You can find my portfolio by clicking [here](https://github.com/meli1230/shareables).
+
+In my repositories, you can expect to find tools and technologies like:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meli1230&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meli1230&layout=compact&theme=dark" alt="Top Languages" />
+</div>
+
+## Contact
+
+If you'd like to chat, collaborate, or connect professionally, you can reach me here:
+
+- [**LinkedIn**](https://www.linkedin.com/in/melisa-marian-733883201/)
+- Email: **melisa_marian@yahoo.fr**
+
+<p align="center">
+  Thanks for stopping by! Have a wonderful day!
+</p>
