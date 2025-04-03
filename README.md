@@ -21,13 +21,35 @@ You can find my portfolio by clicking [here](https://github.com/meli1230/shareab
 In my repositories, you can expect to find tools and technologies like:
 
 #### Programming Languages  
-<span style="font-weight: bold;">Python</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">Java</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">C</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">C#</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">PHP</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/> &nbsp;&nbsp;&nbsp;
-<span style="font-weight: bold;">JavaScript</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+<span style="display: inline-flex; align-items: center;">
+  <span style="vertical-align: middle; font-weight: bold;">Python</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="vertical-align: middle; margin: 0 15px;" alt="Python"/>
+</span>
 
+<span style="display: inline-flex; align-items: center;">
+  <span style="vertical-align: middle; font-weight: bold;">Java</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" style="vertical-align: middle; margin: 0 15px;" alt="Java"/>
+</span>
+
+<span style="display: inline-flex; align-items: center;">
+  <span style="vertical-align: middle; font-weight: bold;">C</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="vertical-align: middle; margin: 0 15px;" alt="C"/>
+</span>
+
+<span style="display: inline-flex; align-items: center;">
+  <span style="vertical-align: middle; font-weight: bold;">C#</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" style="vertical-align: middle; margin: 0 15px;" alt="C#"/>
+</span>
+
+<span style="display: inline-flex; align-items: center;">
+  <span style="vertical-align: middle; font-weight: bold;">PHP</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" style="vertical-align: middle; margin: 0 15px;" alt="PHP"/>
+</span>
+
+<span style="display: inline-flex; align-items: center;">
+  <span style="vertical-align: middle; font-weight: bold;">JavaScript</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="vertical-align: middle; margin: 0 15px;" alt="JavaScript"/>
+</span>
 
 #### Web & Frameworks  
 <span style="font-weight: bold;">HTML5</span> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/> &nbsp;&nbsp;&nbsp;
