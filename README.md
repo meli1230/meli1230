@@ -49,7 +49,7 @@ In my repositories, you can expect to find tools and technologies like:
 If you'd like to chat, collaborate, or connect professionally, you can reach me here:
 
 - [**LinkedIn**](https://www.linkedin.com/in/melisa-marian-733883201/)
-- Email: **melisa_marian@yahoo.fr**
+- **melisa_marian@yahoo.fr**
 
 ---
 
