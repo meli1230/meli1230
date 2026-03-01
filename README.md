@@ -1,8 +1,9 @@
 <h1 align="center">whoami</h1>
 
 <p align="center">
-  <i>Computer Science & Economics student @ BBU Cluj-Napoca | Google Developer Groups on Campus Volunteer</i><br/>
-  <i>Cyber Security Working Student | Artificial Intelligence enthusiast</i>
+  <i>Business Modeling & Distributed Computing student @ BBU Cluj-Napoca</i><br/>
+  <i>Business Information Systems Graduate @ BBU Cluj-Napoca</i><br/>
+  <i>Google Developer Groups on Campus Ex-Volunteer</i><br/>
 </p>
 
 
