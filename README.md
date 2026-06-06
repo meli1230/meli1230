@@ -48,7 +48,7 @@ In my repositories, you can expect to find tools and technologies like:
 ## Contact
 
 If you'd like to chat, collaborate, or connect professionally, you can reach me here:
-<!-- - [**LinkedIn**](https://www.linkedin.com/in/melisa-marian-733883201/) -->
+- [**LinkedIn**](https://www.linkedin.com/in/melisa-marian-733883201/)
 - **melisa_marian@yahoo.fr**
 
 ---
