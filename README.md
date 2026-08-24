@@ -3,8 +3,6 @@
 <p align="center">
   <i>Medical Informatics MSc student @ FHNW Switzerland </i><br/>
   <i>Business Modeling & Distributed Computing MSc student @ Babeș-Bolyai University Romania </i><br/>
-  <i>Business Information Systems BSc Graduate @ Babeș-Bolyai University Romania </i><br/>
-  <i>Google Developer Groups on Campus Ex-Volunteer</i><br/>
 </p>
 
 
