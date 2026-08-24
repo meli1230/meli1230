@@ -1,9 +1,9 @@
 <h1 align="center">whoami</h1>
 
 <p align="center">
-  <i>Medical Informatics student @ FHNW </i><br/>
-  <i>Business Modeling & Distributed Computing student @ Babeș-Bolyai University </i><br/>
-  <i>Business Information Systems Graduate @ Babeș-Bolyai University </i><br/>
+  <i>Medical Informatics MSc student @ FHNW </i><br/>
+  <i>Business Modeling & Distributed Computing MSc student @ Babeș-Bolyai University </i><br/>
+  <i>Business Information Systems BSc Graduate @ Babeș-Bolyai University </i><br/>
   <i>Google Developer Groups on Campus Ex-Volunteer</i><br/>
 </p>
 
